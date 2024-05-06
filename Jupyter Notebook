@@ -1,0 +1,5 @@
+git init
+git add Sales Analysis in Python.ipynb
+git commit -m "notebook first commit"
+git remote add origin https://github.com/PMLAnalytics/Python-Sales-Analysis.git
+git push -u origin main
